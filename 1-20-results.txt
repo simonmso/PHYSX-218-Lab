@@ -1,0 +1,19 @@
+1.  What are the value of  α±δα?
+	Aluminum: α = 2.72e-05 ± 2.71e-07
+	Copper: α = 1.86e-05 ± 2.45e-07
+
+2.  What are the accepted values of  α±δα?
+	Aluminum: α = 2.1e-05 - 2.4e-05
+	Copper: α = 1.6e-05 - 1.7e-05
+
+3.  Do your results agree with accepted values?
+	My results do not agree with the accepted values. 
+	Both the accepted values for copper and aluminum fall outside the range of uncertainty of my values.
+											
+4. If your results do not agree within uncertainties to the accepted values, suggest possible reasons as to why.
+	My uncertainties suggest that systematic errors are present, as the lab results are decently precise but wholly inaccurate.
+	Most likely, the lab equipment was inefficient both in its transfer of heat (never reaching close to 99°C) and its measurement of heat.
+	Were the pipe to have reached the same length under 99°C, recalculation shows that the values for α fall within accepted values.
+
+5.  Is the value for α constant in copper regardless of the axis along which the thermal expansion is measured?
+	Copper is not isotropic, so theoretically the value for α varies.
