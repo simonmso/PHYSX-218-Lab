@@ -27,4 +27,3 @@ def rule_4(Q, values, uncertainties, exponents):
    for idx in range(len(values)):
         temp_sum += (exponents[idx] * (uncertainties[idx] / values[idx])) ** 2
    return abs(Q) * math.sqrt(temp_sum)
-
